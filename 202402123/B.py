@@ -14,4 +14,4 @@ for i in range(n):
         num_list.append(n_list[i][1])
         # print(num_list)
     else:
-        print(num_list[len(num_list)-n_list[i][1]])a
+        print(num_list[len(num_list)-n_list[i][1]])
